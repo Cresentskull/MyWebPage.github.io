@@ -1,0 +1,28 @@
+h1 {
+	color: red;
+	text-align: center;
+	
+}
+
+#anotherh1 {
+	color: green;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#anotherh1:hover {
+	opacity: 5;
+	transform: translateY(2px);
+}
+
+#h1h2 {
+	color: blue;
+}
+
+#purple{
+	background color: purple
+	height: 10px;
+	width: 20px;
+}
+
+/*This is a comment*/
